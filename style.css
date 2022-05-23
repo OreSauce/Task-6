@@ -16,12 +16,6 @@ button {
     border-radius: 50px !important;
 }
 
-body > div.container > div:nth-child(1) > div:nth-child(1) {
-    justify-content:center ;
-    flex-direction: column;
-    display: flex; 
-}
-
 body > div.container > div.row.cards {
     box-shadow: 11px 7px 16px #0D6EFD;
     border: 0;
@@ -32,3 +26,9 @@ div.row.cards .icon {
     height: 50px;
     margin-bottom: 20px;
 }
+
+/* @media (max-width: 426px) {
+    #contact-me > div {
+    flex-direction: column;
+    }   
+} */
