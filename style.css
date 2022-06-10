@@ -1,5 +1,6 @@
 *{
-    margin: 0%;
+   box-sizing: border-box;
+   margin: 0%;
 }
 
 .navbar {
@@ -27,4 +28,10 @@ div.row.cards .icon {
     margin-bottom: 20px;
 }
 
- 
+@media (max-width: 321px) {
+    .logo {
+        width: 20px;
+    }
+
+     
+}  
