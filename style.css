@@ -29,8 +29,9 @@ div.row.cards .icon {
 }
 
 @media (max-width: 321px) {
-    .logo {
-        width: 20px;
+    #header-section > nav > div {
+        flex-direction: column;
+        align-items: flex-start
     }
 
      
