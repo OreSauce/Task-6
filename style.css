@@ -30,7 +30,7 @@ div.row.cards .icon {
     margin-bottom: 20px;
 }
 
-/* @media screen and (min-width: 321px)   {
+@media screen and (min-width: 321px)   {
     #header-section > nav > div {
         flex-direction: column;
         align-items: flex-start
@@ -42,4 +42,4 @@ div.row.cards .icon {
     }
 
    }
-  */
+ 
